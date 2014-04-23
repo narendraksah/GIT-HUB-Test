@@ -1,2 +1,10 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+Test a file by shankalya
+=======
+Test a file  -- changing again.
+>>>>>>> d8b39fcf5cfcc84ddb13792bc484e1b62d38da63
+=======
 Test a file- bhuvanesh changed this
 
+>>>>>>> 00282b6c542c02fd2c0c0ed5e65d43ac1af3f15c
