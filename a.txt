@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Test a file by shankalya
+=======
+Test a file  -- changing again.
+>>>>>>> d8b39fcf5cfcc84ddb13792bc484e1b62d38da63
